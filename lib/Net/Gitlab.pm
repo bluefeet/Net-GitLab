@@ -662,6 +662,16 @@ Alan Young <harleypigE<64>gmail.com>
 
 Aran Clary Deltac <bluefeetE<64>gmail.com>
 
+=head1 CONTRIBUTORS
+
+=over
+
+=item *
+
+Mohammad S Anwar <mohammad.anwarE<64>yahoo.com>
+
+=back
+
 =head1 COPYRIGHT AND LICENSE
 
 This software is copyright (c) 2014 by Alan Young.
