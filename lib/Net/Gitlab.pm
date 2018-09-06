@@ -2,8 +2,6 @@ package Net::Gitlab;
 
 ## no critic( ValuesAndExpressions::ProhibitAccessOfPrivateData )
 
-# ABSTRACT: Talk to a Gitlab installation via its API.
-
 
 use utf8;
 use strict;
@@ -637,7 +635,7 @@ __END__
 
 =head1 NAME
 
-Net::Gitlab - Talk to a Gitlab installation via its API.
+Net::Gitlab - Talk to a Gitlab installation via its API. (DEPRECATED)
 
 =head1 DEPRECATED
 
