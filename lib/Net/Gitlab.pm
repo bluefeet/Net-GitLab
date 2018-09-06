@@ -17,8 +17,6 @@ use Regexp::Common 'Email::Address';
 
 my $PASSWD_LENGTH = 6; ## no critic ( ValuesAndExpressions::ProhibitMagicNumbers )
 
-our $VERSION = '0.05'; # VERSION
-
 {  # Hide
 
   Params::Validate::Checks::register

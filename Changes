@@ -3,6 +3,7 @@ Revision history for Net-Gitlab
 {{$NEXT}}
 
  - Oh, add (DEPRECATED) to the abstract.
+ - Fix $VERSION declaration.
 
 0.06 2018-09-06
 
