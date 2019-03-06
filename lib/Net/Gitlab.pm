@@ -8,6 +8,8 @@ use strict;
 use warnings;
 use namespace::autoclean;
 
+our $VERSION = '0.08';
+
 use Carp;
 use HTTP::Request ();
 use JSON;
@@ -654,23 +656,11 @@ See perlmodinstall for information and options on installing Perl modules.
 
 The development version is on github at L<https://github.com/bluefeet/Net-Gitlab>.
 
-=head1 ORIGINAL AUTHOR
+=head1 AUTHORS
 
-Alan Young <harleypigE<64>gmail.com>
-
-=head1 CURRENT MAINTAINER
-
-Aran Clary Deltac <bluefeetE<64>gmail.com>
-
-=head1 CONTRIBUTORS
-
-=over
-
-=item *
-
-Mohammad S Anwar <mohammad.anwarE<64>yahoo.com>
-
-=back
+    Alan Young <harleypig@gmail.com>
+    Aran Clary Deltac <bluefeet@gmail.com>
+    Mohammad S Anwar <mohammad.anwar@yahoo.com>
 
 =head1 COPYRIGHT AND LICENSE
 

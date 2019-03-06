@@ -1,54 +1,40 @@
-=pod
-
-=head1 NAME
+# NAME
 
 Net::Gitlab - Talk to a Gitlab installation via its API. (DEPRECATED)
 
-=head1 DEPRECATED
+# DEPRECATED
 
 This module is no longer being maintained.
-Please see L<GitLab::API::v4> as an alternative.
+Please see [GitLab::API::v4](https://metacpan.org/pod/GitLab::API::v4) as an alternative.
 
-=head1 METHODS
+# METHODS
 
-=head2 new
+## new
 
 Create a new instance of a Gitlab object.
 
-=head1 INSTALLATION
+# INSTALLATION
 
 See perlmodinstall for information and options on installing Perl modules.
 
-=head1 SOURCE
+# SOURCE
 
-The development version is on github at L<https://github.com/bluefeet/Net-Gitlab>.
+The development version is on github at [https://github.com/bluefeet/Net-Gitlab](https://github.com/bluefeet/Net-Gitlab).
 
-=head1 ORIGINAL AUTHOR
+# AUTHORS
 
-Alan Young <harleypigE<64>gmail.com>
+    Alan Young <harleypig@gmail.com>
+    Aran Clary Deltac <bluefeet@gmail.com>
+    Mohammad S Anwar <mohammad.anwar@yahoo.com>
 
-=head1 CURRENT MAINTAINER
-
-Aran Clary Deltac <bluefeetE<64>gmail.com>
-
-=head1 CONTRIBUTORS
-
-=over
-
-=item *
-
-Mohammad S Anwar <mohammad.anwarE<64>yahoo.com>
-
-=back
-
-=head1 COPYRIGHT AND LICENSE
+# COPYRIGHT AND LICENSE
 
 This software is copyright (c) 2014 by Alan Young.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
 
-=head1 DISCLAIMER OF WARRANTY
+# DISCLAIMER OF WARRANTY
 
 BECAUSE THIS SOFTWARE IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY
 FOR THE SOFTWARE, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT
@@ -70,5 +56,3 @@ RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A
 FAILURE OF THE SOFTWARE TO OPERATE WITH ANY OTHER SOFTWARE), EVEN IF
 SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
 DAMAGES.
-
-=cut
