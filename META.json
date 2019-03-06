@@ -70,10 +70,10 @@
          "web" : "https://github.com/bluefeet/Net-Gitlab"
       }
    },
-   "version" : "0.08",
+   "version" : "0.09",
    "x_authority" : "cpan:BLUEFEET",
    "x_contributors" : [
-      "Aran Deltac <bluefeet@gmail.com>",
+      "Aran Clary Deltac <bluefeet@gmail.com>",
       "Mohammad S Anwar <mohammad.anwar@yahoo.com>"
    ],
    "x_deprecated" : 1,
